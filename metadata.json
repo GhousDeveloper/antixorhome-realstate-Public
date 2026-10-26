@@ -1,0 +1,8 @@
+{
+  "name": "AntixorHome - Modern Real Estate & Luxury Homes",
+  "description": "Discover premium properties, modern homes, and luxury villas worldwide with AntixorHome.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
